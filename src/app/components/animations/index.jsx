@@ -28,6 +28,6 @@ export default Animation;
 //whileHover is for hover, whileTap is for tap
 //transition is for animation
 //type: "spring" is for spring animation, stiffness: 100 is for stiffness of spring
-
+//damping: 10 is for damping(up n down jump) of spring
 
 

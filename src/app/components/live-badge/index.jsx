@@ -22,3 +22,17 @@ export default function LiveBadge() {
         </div>
     );
 }
+
+
+
+
+// motion.span → animated span using Framer Motion
+
+// animate → defines animation keyframes
+// scale → makes the dot pulse (grow and shrink)
+// opacity → fades the dot in and out
+
+// transition → controls animation behavior
+// duration → time for one animation cycle
+// repeat → Infinity makes animation loop forever
+// ease → smooth in–out animation timing
